@@ -1,4 +1,6 @@
 {
   "version": "PRM-1.0.0",
-  "users": {}
+  "users": {
+    "PREMIUM": true
+  }
 }
